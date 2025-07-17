@@ -1,9 +1,11 @@
 pandas
 numpy
-pyarrow
 fastparquet
 tensorflow
 huggingface_hub
 datasets
 transformers[sentencepiece]
 sacrebleu
+mltu
+open-cv
+pillow
